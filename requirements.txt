@@ -1,0 +1,6 @@
+customtkinter
+pandas
+numpy
+seaborn
+matplotlib
+CTkMessagebox
